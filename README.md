@@ -48,8 +48,8 @@ This project addresses multiple challenges in hospital data engineering, includi
 
 ---
 
-![Dashboard Screenshot 1](project\screenshots\units_transfers.png)
-![Dashboard Screenshot 2](project\screenshots\patients_demographics.png)
+![Dashboard Screenshot 1](screenshots\units_transfers.png)
+![Dashboard Screenshot 2](screenshots\patients_demographics.png)
 
 
 ---
